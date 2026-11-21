@@ -2,7 +2,7 @@
 
 **Feature Branch**: `[001-ipo-deadline-tracker]`
 
-**Created**: 2026-11-10
+**Created**: 2026-11-21
 
 **Status**: Draft
 
